@@ -1,3 +1,5 @@
+import os
+
 secret_num = int(input("Player One, give me a number: "))
 
 os.system('cls')
