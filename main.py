@@ -1,7 +1,6 @@
 secret_num = int(input("Player One, give me a number: "))
 
-for i in range(11):
-    print("")
+os.system('cls')
 
 guess = int(input("Player Two, what's your guess? "))
 
